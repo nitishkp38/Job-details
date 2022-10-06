@@ -1,0 +1,90 @@
+* {
+    margin: 0px;
+}
+
+#header {
+    width: 100%;
+    height: 60px;
+    background-color: #6930c3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+#head {
+    margin-left: 90px;
+    font-size: 45px;
+}
+
+.flex {
+    display: flex;
+    background-color: #b8bedd;
+    flex-direction: column;
+    min-height: 601px;
+}
+
+.flex div {
+    padding: 20px;
+    margin: 10px;
+    font-size: 25px;
+    background-color: white;
+    width: 60%;
+    height: 150px;
+    margin-left: 250px;
+    border-radius: 15px;
+    font-family: verdana;
+}
+
+#j1 {
+    font-size: 18px;
+}
+
+#j2 {
+    font-size: 18px;
+}
+
+#j3 {
+    font-size: 18px;
+}
+
+#j4 {
+    font-size: 18px;
+}
+
+#j5 {
+    font-size: 18px;
+}
+
+.btn {
+    background-color: #7678ed;
+    font-weight: bold;
+}
+
+.footer {
+    width: 100%;
+    height: 200px;
+    background-color: #abc4ff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+#foot {
+    margin-left: 90px;
+    font-size: 45px;
+    padding-top: 35px;
+}
+
+#slogan {
+    padding-left: 100px;
+    color: #ed254e;
+}
+
+.contact {
+    float: right;
+    text-decoration: none;
+    margin-right: 100px;
+}
+
+.contact a {
+    display: inline-block;
+    margin-bottom: 100px;
+}
