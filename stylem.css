@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(to top right, #f25022, #7fba00, #00a4ef, #ffb900);
+}
+
+.header {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.ja {
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.detail {
+    color: blueviolet;
+    margin-left: 300px;
+}
+
+form {
+    color: black;
+}
+
+select {
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+sup {
+    color: red;
+}
+
+#f {
+    width: 320px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#ln {
+    width: 430px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#e {
+    width: 460px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#c {
+    width: 750px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#y {
+    width: 378px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#g {
+    width: 456px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#i {
+    width: 375px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#c {
+    width: 260px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#a {
+    width: 450px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#v {
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#l {
+    width: 385px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#s {
+    background: linear-gradient(to top right, black, lightblue);
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-left: 150px;
+}
+
+.footer {
+    background-color: lightskyblue;
+    width: 100%;
+    height: 70px;
+}
+
+.footer footer {
+    padding-top: 20px;
+    margin-left: 600px;
+    font-weight: bolder;
+}
